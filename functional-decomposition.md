@@ -1,6 +1,7 @@
 #Functional Decomposition
 
 ##Vending machine from machine's point of view
+
 -Wait for someone
  -Keep projecting 'hello' on the screen
 -When someone puts in money
