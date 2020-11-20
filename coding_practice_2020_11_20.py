@@ -5,8 +5,8 @@ print(color,'?! No way, that is my favorite color as well!')
 
 
 #question 2
-cans = float(input('how many cans come in a pack? '))
-packs = float(input('how many packs are there? '))
+cans = int(input('how many cans come in a pack? '))
+packs = int(input('how many packs are there? '))
 
 total_cans = cans * packs
 
@@ -33,7 +33,5 @@ elif choice == 'no' or 'No':
     print('ok that is good') 
 else:
     print('please type yes or no')
-
-
 
 
