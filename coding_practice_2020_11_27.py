@@ -1,13 +1,13 @@
-    # 1. from -482 to -118 by 14.
-    # 2. from -69 to 542 by 13.
-    # 3. from -37 to 167 by 12.
-    # 4. from -203 to 77 by 7.
-    # 5. from 496 to 1342 by 18.
-    # 6. from -28 to 703 by 17.
-    # 7. from -445 to -345 by 4.
-    # 8. from 384 to 618 by 9.
-    # 9. from -274 to 110 by 16.
-    # 10. from 125 to 251 by 6.
+# 1. from -482 to -118 by 
+# 2. from -69 to 542 by 13.
+# 3. from -37 to 167 by 12.
+# 4. from -203 to 77 by 7.
+# 5. from 496 to 1342 by 18.
+# 6. from -28 to 703 by 17.
+# 7. from -445 to -345 by 4.
+# 8. from 384 to 618 by 9.
+# 9. from -274 to 110 by 16.
+# 10. from 125 to 251 by 6.
     
 i = -482
 while i <= -118:
