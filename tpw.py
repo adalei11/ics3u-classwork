@@ -14,5 +14,6 @@ def main:
 
 
 #2
-def taxi_fare
+def taxi_fare:
+    fare 
 
