@@ -1,15 +1,18 @@
+#1
+import math
+def find_hypoteuse(a, b):
+    hypotenuse = math.sqrt(a**2 + b**2)
+    return hypotenuse
 
-
-
-
+def main:
+  a = input('enter the length')
+  b = input('enter the length')
+  sides = find_hypotenuse(a,b)
+  print(find_hypotenuse)
+  
+()main
 
 
 #2
-def sum_series(n):
-  if n < 1:
-    return 0
-  else:
-    return n + sum_series(n - 2)
+def taxi_fare
 
-print(sum_series(6))
-print(sum_series(10))
